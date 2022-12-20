@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/539056584.svg)](https://zenodo.org/badge/latestdoi/539056584)
+
 # TIPSBP1
 
 To 'install,' download the package and unzip it. 
